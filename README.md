@@ -240,7 +240,7 @@ mental-health-journaling-ai/
 Faris Ahmad Rizky Azizy
 Apple Developer Academy Candidate
 
-[![GitHub](https://img.shields.io/badge/GitHub-@username-black)](https://github.com/farisazizy289)
+[![GitHub](https://img.shields.io/badge/GitHub-@farisazizy289-black)](https://github.com/farisazizy289)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/faris-ahmad-rizky-azizy)
 
 ---
