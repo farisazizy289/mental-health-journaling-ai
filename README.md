@@ -21,8 +21,6 @@ Proyek ini dibangun sebagai bagian dari portofolio **Apple Developer Academy** d
 
 ## 🌟 Demo
 
-![App Screenshot](assets/screenshot.png)
-
 **Live Demo:** [mental-health-journaling-ai.streamlit.app](https://mental-health-journaling-ai.streamlit.app)
 
 ---
